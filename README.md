@@ -11,4 +11,4 @@ Here I attached the Practical implementation for the theoretical concepts addres
 | Pretraining & instruction tuning | [Go to Features](#features) |
 | Simple application using OpenAI API | [Go to Installation](#installation) |
 | Simple application using OpenAI API .py extension | [Go to Usage](#usage) |
-| Flask interface code | [Go to FAQ](#faq) |
+| Flask interface code | [Go to FAQ] |
