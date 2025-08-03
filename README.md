@@ -7,8 +7,8 @@ This repository explores the foundational concepts behind large language models 
 Here I attached the Practical implementation for the theoretical concepts addressed in the report
 | Concept | Link | more |
 |--------|------|-------|
-| Introduction | [Go to Introduction](#introduction) |------|
-| Features | [Go to Features](#features) |
-| Installation | [Go to Installation](#installation) |
-| Usage | [Go to Usage](#usage) |
-| FAQ | [Go to FAQ](#faq) |
+| Simple Attention implementation | [Go to Introduction](#introduction) | |
+| Pretraining & instruction tuning | [Go to Features](#features) |
+| Simple application using OpenAI API | [Go to Installation](#installation) |
+| Simple application using OpenAI API .py extension | [Go to Usage](#usage) |
+| Flask interface code | [Go to FAQ](#faq) |
