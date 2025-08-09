@@ -12,6 +12,7 @@ Here I attached the Practical implementation for the theoretical concepts addres
 | Simple application using OpenAI API | [Link](https://drive.google.com/file/d/1eR_1ODClRVPg2C12Pz8LDcQJuGfac4Hx/view?usp=drive_link) | [Link](https://drive.google.com/file/d/1tmKCdjoK7fhWvtmUgHFhKQ1Fjl6OZx6M/view?usp=drive_link) |
 | Flask interface code | [link](https://drive.google.com/file/d/1UdDnIV9hMnFdTLzi4aQ9l-87nXTmawrR/view?usp=sharing)| 
 
-# this need to complet
+
+# this needs to be completed 
 |illustration App video | [Link](#usage) | 
 |Final Project | [Link](#usage) |
