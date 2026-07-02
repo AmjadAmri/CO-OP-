@@ -41,6 +41,7 @@ The practical tasks implemented in this repository follow the official cooperati
 ## Training Modules
 
 The following modules summarize the practical implementations and learning activities completed throughout the cooperative training program.
+
 | Module                                    | Description                                                                                                 | Resources               |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------- |
 | **LLM Fundamentals**                      | Studied the fundamentals of Large Language Models (LLMs), GPT architecture, and the OpenAI ecosystem.       | 📖[Report](https://github.com/user-attachments/files/29603710/COOPERATIVE_TRAINING.Final.report.pdf)              |
@@ -48,27 +49,21 @@ The following modules summarize the practical implementations and learning activ
 | **Self-Attention Implementation**         | Implemented a simplified self-attention mechanism from scratch in Python.                                   | 💻[Python](https://drive.google.com/file/d/1WCYBFTZ0GBk06Mh0npjaAyce2IqV1g60/view?usp=drive_link) 📓[Notebook](https://drive.google.com/file/d/123W7aFMilAAWeziClpTdfcCwQ-Bg_DiQ/view?usp=drive_link) |
 | **Pretraining & Instruction Tuning**      | Compared pretrained and instruction-tuned models through practical experiments.                             | 💻[Python](https://drive.google.com/file/d/1FeMn8pr7WUyU7tsYgvH5dFyf-mmNxAGS/view?usp=drive_link) 📓[Notebook ](https://drive.google.com/file/d/1eufvFjKdo8j0kBFMVuMJlrJy8ptojmFE/view?usp=drive_link)|
 | **OpenAI API Integration**                | Built a bilingual AI assistant using the OpenAI API.                                                        | 💻[Python](https://drive.google.com/file/d/1eR_1ODClRVPg2C12Pz8LDcQJuGfac4Hx/view?usp=drive_link) 📓[Notebook](https://drive.google.com/file/d/1tmKCdjoK7fhWvtmUgHFhKQ1Fjl6OZx6M/view?usp=drive_link) 
-|
 | **Flask AI Application**                  | Developed a Flask web interface for interacting with the AI assistant.                                      | 💻[Source Code](https://drive.google.com/file/d/1UdDnIV9hMnFdTLzi4aQ9l-87nXTmawrR/view?usp=sharing)|
 | **Prompt Engineering**                    | Compared Zero-shot, Few-shot, and Chain-of-Thought prompting techniques through practical examples.         | 📓 [Practical Example](https://drive.google.com/file/d/1qY1fF2YMq8U80tkRoUta9xuWGayHv500/view?usp=drive_link)    |
 | **Prompt Evaluation**                     | Evaluated generated outputs, refined prompts, and compared improvements.                                    | 📓 [Practical Example](https://drive.google.com/file/d/1OejKlNAjRgiGJHbG7ilwrRY0gfrCmYZa/view?usp=drive_link)   |
-| **Prompt Library**                        | Developed a reusable JSON prompt library for educational content generation.                                | 🎥 [Demo](https://drive.google.com/file/d/1Jjx3fq9gHxKHi_XFipSCVLBBRLPPE5K_/view?usp=drive_link)  📂 [Files:](https://drive.google.com/drive/folders/1JbQApFYSbpPJbO5RRvp8HIvyCefqTPSY?usp=drive_link)
-📂 [Files:](https://drive.google.com/file/d/1rAgAfXiODM-urQkZ7IaDEtZqIL-tdG1s/view?usp=drive_link)    |
-| **Educational Content Evaluation**        | Applied Bloom's Taxonomy, vocabulary sequence analysis, and educational assessment to AI-generated content. | 📓 Practical Example    |
-| **Failure Case Analysis**                 | Analyzed common failure cases in generative AI outputs and proposed improvements.                           | 📓 Practical Example    |
-| **Interactive AI Interface**              | Built an interactive educational interface powered by AI.                                                   | 🎥 Demo • 📂 Files      |
-| **Advanced Model Configuration & Export** | Implemented advanced model settings and automated output formatting/export.                                 | 🎥 Demo • 📂 Files      |
+| **Prompt Library**                        | Developed a reusable JSON prompt library for educational content generation.                                | 🎥 [Demo](https://drive.google.com/file/d/1Jjx3fq9gHxKHi_XFipSCVLBBRLPPE5K_/view?usp=drive_link)  📂 [Source Code](https://drive.google.com/drive/folders/1JbQApFYSbpPJbO5RRvp8HIvyCefqTPSY?usp=drive_link)📂 [prompt_library.json](https://drive.google.com/file/d/1rAgAfXiODM-urQkZ7IaDEtZqIL-tdG1s/view?usp=drive_link)    |
+| **Educational Content Evaluation**        | Applied Bloom's Taxonomy, vocabulary sequence analysis, and educational assessment to AI-generated content. | 📓 [Practical Example](https://drive.google.com/file/d/1a2jGAZyE2jVsMp6nn2MgXimk3WW2ZvIS/view?usp=drive_link)   |
+| **Failure Case Analysis**                 | Analyzed common failure cases in generative AI outputs and proposed improvements.                           | 📓[Practical Example](https://drive.google.com/file/d/1c2jX-kJsdRFi3AUqgfUnquEoW1tilVwS/view?usp=drive_link)   |
+| **Interactive AI Interface**              | Built an interactive educational interface powered by AI.                                                   | 🎥[Demo](https://drive.google.com/file/d/1zMhpH6A30unbGQTN1CSljUrTEsOtqqON/view?usp=drive_link) 📂💻[Source Code](https://drive.google.com/file/d/1fvwadglYN-nsWJ2SU1jVAsM6Q8Usb_ol/view?usp=drive_link)      |
+| **Advanced Model Configuration & Export** | Implemented advanced model settings and automated output formatting/export.                                 | 🎥[Demo](https://drive.google.com/file/d/1w962LL0UjiYS_AkFtrCtlNCQVWbs5oyj/view?usp=drive_link)
+💻[Source Code](https://drive.google.com/drive/folders/1bGyJJdxlEWN4_fIkqu6OHWsENIJrF3lu?usp=drive_link)|
+
+user interface:
+<img width="1523" height="730" alt="image" src="https://github.com/user-attachments/assets/c33e3c09-d516-44cb-bcf9-b58f16af8d84" />
 
 
-## Training Modules
 
-Here I attached the Practical implementation for the theoretical concepts addressed in the report
-| Concept | Link (.py extension) | (notebook) |
-|--------|------|-------|
- 
-
-| Simple application using OpenAI API | [Link](https://drive.google.com/file/d/1eR_1ODClRVPg2C12Pz8LDcQJuGfac4Hx/view?usp=drive_link) | [Link](https://drive.google.com/file/d/1tmKCdjoK7fhWvtmUgHFhKQ1Fjl6OZx6M/view?usp=drive_link) |
-| Flask interface code | [link](https://drive.google.com/file/d/1UdDnIV9hMnFdTLzi4aQ9l-87nXTmawrR/view?usp=sharing)| 
 
 ## Skills Gained
 
