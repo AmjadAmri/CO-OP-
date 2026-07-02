@@ -31,6 +31,14 @@ Prompt Library Development
 Final Project: AI-Powered Educational Course Generator
 
 ```
+## Training Presentation
+
+The following presentation provides a concise overview of the cooperative training journey, highlighting the learning roadmap, practical implementations, and key outcomes achieved throughout the program.
+
+📊 [Presentation:](...)
+[COOP- Journey Presentation .pptx](https://github.com/user-attachments/files/29605971/COOP-.Journey.Presentation.pptx)
+
+
 ## Training Plan
 
 The practical tasks implemented in this repository follow the official cooperative training plan, covering the theoretical foundations and practical implementation of Generative AI, Prompt Engineering, OpenAI APIs, educational content evaluation, and AI-powered application development.
@@ -42,7 +50,7 @@ The practical tasks implemented in this repository follow the official cooperati
 
 The following modules summarize the practical implementations and learning activities completed throughout the cooperative training program.
 
-| Module                                    | Description                                                                                                 | Resources               |
+| Module                                    | Description                                                                                                 | Deliverable               |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------- |
 | **LLM Fundamentals**                      | Studied the fundamentals of Large Language Models (LLMs), GPT architecture, and the OpenAI ecosystem.       | 📖[Report](https://github.com/user-attachments/files/29603710/COOPERATIVE_TRAINING.Final.report.pdf)              |
 | **Transformer Architecture**              | Explored the differences between Transformer encoder and decoder architectures using practical examples.    | 📓[Noteboo](https://drive.google.com/file/d/1w5Ksl7iilgrEZUe8qQaFNbIhostQAv-v/view?usp=sharing)|
@@ -52,21 +60,41 @@ The following modules summarize the practical implementations and learning activ
 | **Flask AI Application**                  | Developed a Flask web interface for interacting with the AI assistant.                                      | 💻[Source Code](https://drive.google.com/file/d/1UdDnIV9hMnFdTLzi4aQ9l-87nXTmawrR/view?usp=sharing)|
 | **Prompt Engineering**                    | Compared Zero-shot, Few-shot, and Chain-of-Thought prompting techniques through practical examples.         | 📓 [Practical Example](https://drive.google.com/file/d/1qY1fF2YMq8U80tkRoUta9xuWGayHv500/view?usp=drive_link)    |
 | **Prompt Evaluation**                     | Evaluated generated outputs, refined prompts, and compared improvements.                                    | 📓 [Practical Example](https://drive.google.com/file/d/1OejKlNAjRgiGJHbG7ilwrRY0gfrCmYZa/view?usp=drive_link)   |
-| **Prompt Library**                        | Developed a reusable JSON prompt library for educational content generation.                                | 🎥 [Demo](https://drive.google.com/file/d/1Jjx3fq9gHxKHi_XFipSCVLBBRLPPE5K_/view?usp=drive_link)  📂 [Source Code](https://drive.google.com/drive/folders/1JbQApFYSbpPJbO5RRvp8HIvyCefqTPSY?usp=drive_link)📂 [prompt_library.json](https://drive.google.com/file/d/1rAgAfXiODM-urQkZ7IaDEtZqIL-tdG1s/view?usp=drive_link)    |
+| **Prompt Library**                        | Developed a reusable JSON prompt library for educational content generation.                                | 🎥 [Demo](https://drive.google.com/file/d/1Jjx3fq9gHxKHi_XFipSCVLBBRLPPE5K_/view?usp=drive_link)  💻[Source Code](https://drive.google.com/drive/folders/1JbQApFYSbpPJbO5RRvp8HIvyCefqTPSY?usp=drive_link)📂 [prompt_library.json](https://drive.google.com/file/d/1rAgAfXiODM-urQkZ7IaDEtZqIL-tdG1s/view?usp=drive_link)    |
 | **Educational Content Evaluation**        | Applied Bloom's Taxonomy, vocabulary sequence analysis, and educational assessment to AI-generated content. | 📓 [Practical Example](https://drive.google.com/file/d/1a2jGAZyE2jVsMp6nn2MgXimk3WW2ZvIS/view?usp=drive_link)   |
 | **Failure Case Analysis**                 | Analyzed common failure cases in generative AI outputs and proposed improvements.                           | 📓[Practical Example](https://drive.google.com/file/d/1c2jX-kJsdRFi3AUqgfUnquEoW1tilVwS/view?usp=drive_link)   |
-| **Interactive AI Interface**              | Built an interactive educational interface powered by AI.                                                   | 🎥[Demo](https://drive.google.com/file/d/1zMhpH6A30unbGQTN1CSljUrTEsOtqqON/view?usp=drive_link) 📂💻[Source Code](https://drive.google.com/file/d/1fvwadglYN-nsWJ2SU1jVAsM6Q8Usb_ol/view?usp=drive_link)      |
-| **Advanced Model Configuration & Export** | Implemented advanced model settings and automated output formatting/export.                                 | 🎥[Demo](https://drive.google.com/file/d/1w962LL0UjiYS_AkFtrCtlNCQVWbs5oyj/view?usp=drive_link)
-💻[Source Code](https://drive.google.com/drive/folders/1bGyJJdxlEWN4_fIkqu6OHWsENIJrF3lu?usp=drive_link)|
+| **Create a simple vocabulary generator tool**              | Built an interactive educational interface powered by AI.                                                   | 🎥[Demo](https://drive.google.com/file/d/1zMhpH6A30unbGQTN1CSljUrTEsOtqqON/view?usp=drive_link)💻[Source Code](https://drive.google.com/file/d/1fvwadglYN-nsWJ2SU1jVAsM6Q8Usb_ol/view?usp=drive_link) 
+| **Advanced settings for the model & Formatting and exporting outputs** | Implemented advanced model settings and automated output formatting/export.                                 | 🎥[Demo](https://drive.google.com/file/d/1w962LL0UjiYS_AkFtrCtlNCQVWbs5oyj/view?usp=drive_link)💻[Source Code](https://drive.google.com/drive/folders/1bGyJJdxlEWN4_fIkqu6OHWsENIJrF3lu?usp=drive_link)|
 
-user interface:
-<img width="1523" height="730" alt="image" src="https://github.com/user-attachments/assets/c33e3c09-d516-44cb-bcf9-b58f16af8d84" />
+### Create a simple vocabulary generator tool 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f7fe051-1a08-4d4e-b79b-4d5bc4d35286" width="850">
+</p>
 
+### Advanced Model Configuration & Output Formatting
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c33e3c09-d516-44cb-bcf9-b58f16af8d84" width="850">
+</p>
 
 
 ## Skills Gained
 
+- Large Language Models (LLMs)
+- Transformer Architecture
+- Self-Attention Mechanism
+- Prompt Engineering
+- Prompt Evaluation and Optimization
+- OpenAI API Integration
+- AI-Powered Application Development
+- Flask Web Development
+- Educational Prompt Design
+- Educational Content Evaluation
+- Bloom's Taxonomy for AI-generated Content
+- Generative AI Output Analysis
+- AI Failure Case Analysis
+- Technical Documentation
 
 ## Final Project
 
