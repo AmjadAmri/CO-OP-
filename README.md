@@ -43,9 +43,9 @@ The practical tasks implemented in this repository follow the official cooperati
 The following modules summarize the practical implementations and learning activities completed throughout the cooperative training program.
 | Module                                    | Description                                                                                                 | Resources               |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------- |
-| **LLM Fundamentals**                      | Studied the fundamentals of Large Language Models (LLMs), GPT architecture, and the OpenAI ecosystem.       | 📖 Report               |
+| **LLM Fundamentals**                      | Studied the fundamentals of Large Language Models (LLMs), GPT architecture, and the OpenAI ecosystem.       | 📖  [Report](https://github.com/user-attachments/files/29603710/COOPERATIVE_TRAINING.Final.report.pdf)              |
 | **Transformer Architecture**              | Explored the differences between Transformer encoder and decoder architectures using practical examples.    | 💻 Python • 📓 Notebook |
-| **Self-Attention Implementation**         | Implemented a simplified self-attention mechanism from scratch in Python.                                   | 💻 Python • 📓 Notebook |
+| **Self-Attention Implementation**         | Implemented a simplified self-attention mechanism from scratch in Python.                                   | 💻 [Python](https://drive.google.com/file/d/1WCYBFTZ0GBk06Mh0npjaAyce2IqV1g60/view?usp=drive_link) 📓[Notebook](https://drive.google.com/file/d/123W7aFMilAAWeziClpTdfcCwQ-Bg_DiQ/view?usp=drive_link) |
 | **Pretraining & Instruction Tuning**      | Compared pretrained and instruction-tuned models through practical experiments.                             | 💻 Python • 📓 Notebook |
 | **OpenAI API Integration**                | Built a bilingual AI assistant using the OpenAI API.                                                        | 💻 Python • 📓 Notebook |
 | **Flask AI Application**                  | Developed a Flask web interface for interacting with the AI assistant.                                      | 💻 Source Code          |
@@ -63,12 +63,13 @@ The following modules summarize the practical implementations and learning activ
 Here I attached the Practical implementation for the theoretical concepts addressed in the report
 | Concept | Link (.py extension) | (notebook) |
 |--------|------|-------|
-| Simple Attention implementation | [Link](https://drive.google.com/file/d/1WCYBFTZ0GBk06Mh0npjaAyce2IqV1g60/view?usp=drive_link) | [Link](https://drive.google.com/file/d/123W7aFMilAAWeziClpTdfcCwQ-Bg_DiQ/view?usp=drive_link)|  
+ 
 
 | Simple application using OpenAI API | [Link](https://drive.google.com/file/d/1eR_1ODClRVPg2C12Pz8LDcQJuGfac4Hx/view?usp=drive_link) | [Link](https://drive.google.com/file/d/1tmKCdjoK7fhWvtmUgHFhKQ1Fjl6OZx6M/view?usp=drive_link) |
 | Flask interface code | [link](https://drive.google.com/file/d/1UdDnIV9hMnFdTLzi4aQ9l-87nXTmawrR/view?usp=sharing)| 
 
 ## Skills Gained
+
 
 ## Final Project
 
