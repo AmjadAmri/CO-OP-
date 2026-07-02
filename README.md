@@ -1,4 +1,4 @@
-# Cooperative Training (practical part)
+# Cooperative Training – Generative AI & LLM Engineering
 
 This repository explores the foundational concepts behind large language models (LLMs) through a simplified project.
 
