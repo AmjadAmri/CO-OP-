@@ -52,7 +52,8 @@ The following modules summarize the practical implementations and learning activ
 
 | Module                                    | Description                                                                                                 | Deliverable               |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------- |
-| **LLM Fundamentals**                      | Studied the fundamentals of Large Language Models (LLMs), GPT architecture, and the OpenAI ecosystem.       | 📖[Report](https://github.com/user-attachments/files/29603710/COOPERATIVE_TRAINING.Final.report.pdf)              |
+| **LLM Fundamentals**                      | Studied the fundamentals of Large Language Models (LLMs), GPT architecture, and the OpenAI ecosystem.       | 📖[Report](https://github.com/user-attachments/files/29657195/COOPERATIVE_TRAINING.Final.report.pdf)
+             |
 | **Transformer Architecture**              | Explored the differences between Transformer encoder and decoder architectures using practical examples.    | 📓[Noteboo](https://drive.google.com/file/d/1w5Ksl7iilgrEZUe8qQaFNbIhostQAv-v/view?usp=sharing)|
 | **Self-Attention Implementation**         | Implemented a simplified self-attention mechanism from scratch in Python.                                   | 💻[Python](https://drive.google.com/file/d/1WCYBFTZ0GBk06Mh0npjaAyce2IqV1g60/view?usp=drive_link) 📓[Notebook](https://drive.google.com/file/d/123W7aFMilAAWeziClpTdfcCwQ-Bg_DiQ/view?usp=drive_link) |
 | **Pretraining & Instruction Tuning**      | Compared pretrained and instruction-tuned models through practical experiments.                             | 💻[Python](https://drive.google.com/file/d/1FeMn8pr7WUyU7tsYgvH5dFyf-mmNxAGS/view?usp=drive_link) 📓[Notebook ](https://drive.google.com/file/d/1eufvFjKdo8j0kBFMVuMJlrJy8ptojmFE/view?usp=drive_link)|
